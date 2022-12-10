@@ -18,8 +18,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/ahmedZ0k/nft-preview-card)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/ahmedZ0k/nft-preview-card)
+- Live Site URL:(https://ahmedz0k.github.io/nft-preview-card/)
 
 ## My process
 
@@ -46,6 +46,6 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - (https://www.frontendmentor.io/profile/ahmedZ0k)
+- Frontend Mentor - https://www.frontendmentor.io/profile/ahmedZ0k
 - Linkedin - https://www.linkedin.com/in/ahmed-zakaria-63b72b1b5/
 - Github - https://github.com/ahmedZ0k
